@@ -1,4 +1,6 @@
 # 💡 The Flower
+<img width="483" height="364" alt="image" src="https://github.com/user-attachments/assets/12155fca-3349-4dbc-94d3-013b393c2106" />
+
 
 This project implements a **touch-controlled NeoPixel LED ring** using an ESP32 supermini.  
 Users can cycle through colours, activate a rainbow auto-cycle mode, or turn off the LEDs using **tap gestures** on a touch input.
