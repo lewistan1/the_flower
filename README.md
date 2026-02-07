@@ -31,8 +31,6 @@ This project also serves as my first hands-on microcontroller project, where I e
 | ESP32 supermini (MicroPython) | 1 |
 | NeoPixel LED Ring (24 LEDs) | 1 |
 | Touch Input / Touch Pad | 1 |
-| Power Supply | 1 |
-
 ---
 
 ## 📍 Pin Configuration
